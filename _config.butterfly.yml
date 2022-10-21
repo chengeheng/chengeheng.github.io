@@ -4,12 +4,8 @@
 
 # Site
 title: Mr.Chen's Blog
-subtitle: ''
-description: ''
-keywords:
 author: GeHeng Chen
-language: zh
-timezone: ''
+language: zh-CN
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -105,3 +101,20 @@ deploy:
   type: git
   repo: git@github.com:chengeheng/chengeheng.github.io.git
   branch: main
+comment: 
+  use: gitalk # Valine,Disqus
+  text: true 
+
+gitalk:
+  client_id: 3c203d6ed3e930db368a
+  client_secret: 7e88046d826b7326e745c0a6ba9056f58b36c727
+  repo: chengeheng.github.io
+  owner: chengeheng
+  admin: chengeheng
+  option:
+    language: zh-CN
+    perPage: 10
+    # distractionFreeMode: false
+    pagerDirection: last
+    createIssueManually: true
+    # count: false
