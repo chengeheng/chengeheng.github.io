@@ -8,7 +8,7 @@ subtitle: ''
 description: ''
 keywords:
 author: GeHeng Chen
-language: zh-CN
+language: zh
 timezone: ''
 
 # URL
@@ -105,4 +105,3 @@ deploy:
   type: git
   repo: git@github.com:chengeheng/chengeheng.github.io.git
   branch: main
-
