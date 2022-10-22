@@ -11,6 +11,9 @@ menu:
 
 highlight_theme: mac
 
+index_img: https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fgss0.baidu.com%2F-Po3dSag_xI4khGko9WTAnF6hhy%2Fzhidao%2Fpic%2Fitem%2F7e3e6709c93d70cf60f6fe1afbdcd100baa12b9c.jpg&refer=http%3A%2F%2Fgss0.baidu.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1668908874&t=f5bff79306b021c62aafd070fa25f68b
+default_top_img: https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fgss0.baidu.com%2F-Po3dSag_xI4khGko9WTAnF6hhy%2Fzhidao%2Fpic%2Fitem%2F7e3e6709c93d70cf60f6fe1afbdcd100baa12b9c.jpg&refer=http%3A%2F%2Fgss0.baidu.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1668908874&t=f5bff79306b021c62aafd070fa25f68b
+
 
 canvas_ribbon:
   enable: true

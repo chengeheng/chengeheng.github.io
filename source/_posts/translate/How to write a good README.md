@@ -1,5 +1,6 @@
 ---
 title: 如何写一个好的 README 文档
+date: 2022-10-20 14:01:21
 tag:
    - 文档翻译
 categories:
