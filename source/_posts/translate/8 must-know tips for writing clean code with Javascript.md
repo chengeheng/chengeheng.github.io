@@ -1,3 +1,16 @@
+---
+title: 使用 Javascript 编写简洁代码的 8 个必备技巧
+date: 2022-10-22 14:53:00
+tag:
+   - 文档翻译
+categories:
+   - 文档翻译
+
+cover: https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpic1.win4000.com%2Fwallpaper%2F2017-12-06%2F5a2761c197983.jpg&refer=http%3A%2F%2Fpic1.win4000.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1671691943&t=8148041b5af3486c154229de131cca31
+top_img: https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpic1.win4000.com%2Fwallpaper%2F2017-12-06%2F5a2761c197983.jpg&refer=http%3A%2F%2Fpic1.win4000.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1671691943&t=8148041b5af3486c154229de131cca31
+---
+
+
 # 使用 Javascript 编写简洁代码的 8 个必备技巧
 
 Javascript 是一个优秀的编程语言，但是，即使对一些资深的程序员来说，编写简洁明了的 javascript 代码也可能是一个巨大的挑战。
